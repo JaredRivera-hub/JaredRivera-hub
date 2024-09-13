@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jared!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My IT Projects:</h2>
 
 - Active Directory Home Lab </b>
   - [Practicing Active Directory and Windows Networking in VirtualBox](https://github.com/JaredRivera-hub/ActiveDirectoryLab.git)
