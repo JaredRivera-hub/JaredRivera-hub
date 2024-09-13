@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Active Directory Home Lab </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Active Directory and Windows Networking in VirtualBox](https://github.com/JaredRivera-hub/ActiveDirectoryLab.git)
  
 <h2> 📜 Certifications </h2>
 
